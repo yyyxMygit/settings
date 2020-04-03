@@ -1,0 +1,31 @@
+
+/* ソースコードセル */
+div.CodeMirror,
+div.CodeMirror pre{
+    font-family: Ricty Diminished;
+}
+/* 入力セルのセル番号 */
+div.prompt.input_prompt {
+    font-family: Ricty Diminished;
+}
+
+/* 結果出力セル */
+div.output_subarea.output_text.output_stream.output_stdout,
+div.output_subarea.output_text {
+    font-family: Ricty Diminished;
+}
+div.output_area pre {
+    font-family: Ricty Diminished;
+}
+/* 出力セルのセル番号 */
+div.prompt.output_prompt {
+    font-family: Ricty Diminished;
+}
+
+/* MarkDownセル 
+div.text_cell,
+div.text_cell_render pre,
+div.text_cell_render {
+    font-family: sans-serif;
+    font-size: 13pt;
+} */
